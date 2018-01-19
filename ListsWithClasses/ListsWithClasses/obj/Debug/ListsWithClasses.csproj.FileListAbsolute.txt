@@ -1,0 +1,7 @@
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\obj\Debug\ListsWithClasses.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\obj\Debug\ListsWithClasses.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\bin\Debug\ListsWithClasses.exe.config
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\bin\Debug\ListsWithClasses.exe
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\bin\Debug\ListsWithClasses.pdb
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\obj\Debug\ListsWithClasses.exe
+Z:\IGMProfile\Desktop\GDAPS2\ListsWithClasses\ListsWithClasses\obj\Debug\ListsWithClasses.pdb
