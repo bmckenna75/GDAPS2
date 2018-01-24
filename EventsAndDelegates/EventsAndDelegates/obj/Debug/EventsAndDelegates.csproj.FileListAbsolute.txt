@@ -1,0 +1,7 @@
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+Z:\IGMProfile\Desktop\GDAPS2\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
