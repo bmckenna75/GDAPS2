@@ -1,0 +1,6 @@
+Bobby McKenna
+IGME106-01
+The theme for this form is based on the compition for the worst volume adjuster on /r/programmerhumor.
+This form leads you on a wild goose chase to try and adjust your volume.
+The first button on the form leads you to a confirmation screen where the buttons and labels are slightly randomized for security purposes. Once you get past that you must find the volume you wish by looking at the final number as that's how I sorted the numbers. Once selected you must tell me how much you want it and if I don't find it convincing you don't get the volume.
+Nothing gets stuck so it shouldn't be an issue.
